@@ -7,3 +7,7 @@
  - RGB 亮
  - RGB 隨機亮
  - 按鈕 LED 亮
+ - 電壓輸出
+ - 電壓轉換成mV輸出
+ - Grove LED 燈條
+ 
