@@ -1,3 +1,4 @@
+//RGB 隨機
 void setup(){
   pinMode(15, OUTPUT);
   pinMode(16, OUTPUT);
