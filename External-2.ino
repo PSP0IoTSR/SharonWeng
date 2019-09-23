@@ -1,3 +1,4 @@
+//兩顆LED 輪流亮
 boolean led;
 void setup() {
   led = true;
